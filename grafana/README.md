@@ -1,9 +1,8 @@
-# LearningPlatform Infrastructure
+# Grafana 
 
-This repository contains Kubernetes manifests for:
+This folder contains Kubernetes manifests for:
 
 - Grafana (monitoring)
-- Prometheus (metrics) - coming soon
 
 ## Deploy Grafana
 
